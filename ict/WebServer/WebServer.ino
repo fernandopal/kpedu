@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-char* ssid = "TestNetwork";
-char* password = "JaJaxD1234";
+char* ssid = "ESP8266";
+char* password = "kaoict2019";
 
 WiFiServer server(80);
 
